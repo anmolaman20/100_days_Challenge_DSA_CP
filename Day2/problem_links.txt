@@ -1,0 +1,7 @@
+//-------------------------Problem 1 (#263 leetcode)------------------------//
+
+#link1 -> https://leetcode.com/problems/ugly-number/submissions/
+
+//-------------------------Problem 2 (#168 leetcode)-----------------------//
+
+#link2 -> https://leetcode.com/problems/excel-sheet-column-title/submissions/

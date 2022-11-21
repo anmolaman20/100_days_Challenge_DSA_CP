@@ -1,0 +1,7 @@
+//From day 2 to some day we will simply Focus on Maths Problems 
+
+Topics 1:-> Numbers (Palindrome, Ugly, prime , Fibonacci .......... etc) -> Practice By YourSelf
+
+
+Topic 2:-> Do all kind of Conversions questions -> Roman to Number, Binary to Decimal etc;
+
