@@ -1,0 +1,34 @@
+Read the question Carefully try to understand the meaning of each setences. Understanding the problem means you are on half
+of your journey to solve that particular Problem.
+
+
+
+//MUST FOCUS ON CONSTRAINTS
+
+
+-> A special Notes -> About Time CONSTRAINTS 
+
+Today's websites generally checks that your solution are doing how many operations in a second.
+
+Most of the site allow you to perform 10^8 and some of 10^7 operations you can perform in a second.
+
+
+
+//NOW HOW TO DECIDE -> is my brute force solution going to accepted or Not and many such questions -> Here is solution
+
+
+if n<=12 -> you can solve up to O(n!)
+if n<=25 -> you can solve up to O(2^n)
+if n<=100 -> you can solve up to O(n^4)
+if n<=500 -> you can solve up to O(n^3)
+if n<=10^4 -> you can solve up to O(n^2)
+if n<=10^6 -> you can solve up to O(nlogn)
+if n<=10^8 -> you can solve up to O(n)
+if n>10^8 - you can solve up to O(logn) or try in O(1) [mathematical or Binary_seach]
+
+10^5 -> O(n^2) or O(n^2 logn)  
+
+---------------------> Calculation is Very Simple ---------------------------
+
+lets say n<=10^4 -> if you try to do in n^3 -> 10^12 opertions in one second [can't accepted by machines]
+but if we solve in n^2 -> 10^8 almost accepted -> find out or analyze by yourself for rest of others.
