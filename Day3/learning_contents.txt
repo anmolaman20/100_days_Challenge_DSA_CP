@@ -1,0 +1,14 @@
+Try to solve problems Based on Formula -> AP,GP,AREA,QUADRATIC......etc
+
+or Sometimes you have to define your formula or generate Logic
+
+
+//Remember Some Rules 
+
+like
+
+a^b = a+b-2(a&b)
+
+and 
+
+a^b=k -> a=k^Based

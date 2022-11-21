@@ -1,0 +1,7 @@
+//---------------PROBLEM(1)->(CODEFORCES->1699A)------------------------//
+
+#link1 -> https://codeforces.com/contest/1699/problem/A
+
+//----------------PROBLEM(2)->(CODEFORCES->1598C)-----------------------//
+
+#link2 -> https://codeforces.com/contest/1598/problem/C
