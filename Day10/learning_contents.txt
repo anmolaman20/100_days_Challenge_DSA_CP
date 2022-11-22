@@ -1,0 +1,6 @@
+//Finally we are in Day -> going to start Greedy. diff b/w greedy and DP.
+
+//first category of problem is generally solve using Sorting....
+
+
+for more watch -> greedy Playlist of >>>>

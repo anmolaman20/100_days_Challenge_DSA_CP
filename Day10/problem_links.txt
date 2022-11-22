@@ -1,0 +1,7 @@
+//--------------------------(LEETCODE->561(ARRAY_PARTITION))----------------------------------//
+
+#link1 -> https://leetcode.com/problems/array-partition/
+
+//---------------------------(LEETCODE->455(Assign_Cookies))---------------------------------//
+
+#linke2 -> https://leetcode.com/problems/assign-cookies/

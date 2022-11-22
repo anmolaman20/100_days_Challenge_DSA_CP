@@ -1,0 +1,7 @@
+//---------------------------Problem1__CODEFORCES(1739B)----------------------------------------------//
+
+#link1 -> https://codeforces.com/problemset/problem/1739/B?csrf_token=d90d12588d00f4087b7a211f3bb7392d&f0a28=2
+
+//---------------------------Problem2__CODEFORCES(1734C)-----------------------------------------------//
+
+#link2 -> https://codeforces.com/problemset/problem/1734/C
